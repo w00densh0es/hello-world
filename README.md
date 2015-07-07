@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Dit is een begin om te leren werken met GIThub
+
+ik snap er nog niet veel van maar dat komt wel
